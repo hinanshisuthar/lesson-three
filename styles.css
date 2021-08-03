@@ -3,3 +3,13 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.con{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.center-container{
+    max-width: 600x;
+    margin: auto;
+}
